@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreas-jansson
 - 👀 I’m interested in finding a coding summer job
-- 🌱 I’m currently learning Typescript 
+- 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on anything cool
 - 📫 How to reach me, andreas.jansson@protonmail.com
 
